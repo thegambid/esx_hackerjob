@@ -1,5 +1,5 @@
 INSERT INTO `items` (`id`, `name`, `label`, `limit`, `rare`, `can_remove`) VALUES
-(0, 'kazikazan', 'Kazı Kazan', -1, 0, 1),
+(9547, 'hackertablet', 'Hacker Tableti', -1, 0, 1),
 
 
 INSERT INTO `jobs` (`name`, `label`, `whitelisted`) VALUES

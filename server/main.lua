@@ -15,8 +15,8 @@ TriggerEvent('esx_society:registerSociety', 'taxi', 'Taxi', 'society_taxi', 'soc
 
 RegisterServerEvent('esx_hackerjob:hackparasi')
 AddEventHandler('esx_hackerjob:hackparasi', function(verilenPara)
+local source = source
 local xPlayer = ESX.GetPlayerFromId(source)
-TriggerClientevent("esx_hackerjob:polisiAra", source)
 xPlayer.addBank(verilenPara)
 end)
 ---------------------------------------------------------------------------------------

@@ -1,0 +1,16 @@
+Locales['tr'] = {	
+	['hacker_baslik'] = 'HACKER',
+	['kredi_hack'] = 'Kredi kartlarını çal',
+	['kredihack_menu_title'] = 'SEVİYE SEÇİMİ',
+	['kolay_kredi'] = 'Kolay',
+	['orta_kredi'] = 'Orta Seviye',
+	['zor_kredi'] = 'Zor',
+	['enzor_kredi'] = 'Ölüm Grubu',
+	['kapi_hack'] = 'Kapı Kilidini Aç',  
+	['cops_alerted'] = 'Polislere bildirim gitti',
+	['distress_message'] = 'Hackerların kredi kartlarını çaldıkları sivil vatandaşlar tarafından ihbar edildi.',
+	['quantity'] = 'Takip etmek istediğin kişinin numarası',
+	['invalid_quantity']  = 'Geçersiz miktar',
+	['911'] = '155 İhbar',
+	['chop'] = 'Hack',
+}

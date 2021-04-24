@@ -9,7 +9,7 @@ Multi Character Feature for QB-Core Framework :people_holding_hands:
 - [qb-weathersync](https://github.com/qbcore-framework/qb-) - For adjusting the weather while player is creating a character.
 
 ## Screenshots
-![Character Selection](https://prnt.sc/11y9gpq)
+![Character Selection](https://imgur.com/mKQz5Vh.png)
 ![Purchase confirmation](https://imgur.com/k6L3vQE.png)
 ![Test drive](https://imgur.com/omvRCbG.png)
 
